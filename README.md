@@ -15,3 +15,7 @@ Read more about Invision Community [here](https://invisioncommunity.com).
 5. Open the `Vagrantfile` and configure the `EXPOSE_PORT` property to your liking. This will be the port that the software will listen on on your local machine.
 6. Run `vagrant up` and wait for the process to complete. You will be presented with some instructions once it has completed.
 7. You can now work on your code within the `ips` directory, while using the software through the URL provided by the `vagrant up` command.
+
+## Notes
+
+* Make sure that when the software asks you for your license key that you append `-TESTINSTALL` to the end of the license key. This will allow you to have multiple installations with the `localhost` hostname.
