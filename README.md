@@ -8,7 +8,7 @@ Read more about Invision Community [here](https://invisioncommunity.com).
 
 ## How to use?
 
-1. Clone this repository using `git clone https://github.com/nathan-fiscaletti/invision-community-vagrant.git
+1. Clone this repository using `git clone https://github.com/nathan-fiscaletti/invision-community-vagrant.git`
 2. Run `cd invision-community-vagrant` to change to the proper directory.
 3. Download a copy of the Invision Community Suite from your [Invision Community Client Area](https://invisioncommunity.com/clientarea/)
 4. Extract the software into the `ips` directory, once extracted you should now have the file `init.php` in the location `./ips/init.php`.
